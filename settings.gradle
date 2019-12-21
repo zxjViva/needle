@@ -1,0 +1,2 @@
+include ':app', ':needle-annotations', ':needle-runtime', ':needle-compiler'
+rootProject.name='Needle'
